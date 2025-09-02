@@ -181,9 +181,7 @@ This toolkit has been validated against:
 If you use this tool in your research, please cite:
 
 ```
-Sajid, H. A. U. (2025). SEM Surface Morphology Analyzer: A Python toolkit for quantitative 
-surface analysis of electron microscopy images for soil treatment effectiveness assessment. 
-GitHub repository. https://github.com/asadullahsajid/SEM-Soil-Morphology-Analyzer
+....
 ```
 
 ## License
@@ -215,3 +213,4 @@ For questions, bug reports, or feature requests:
 **Authors**: Hafiz Asad Ullah Sajid  
 **Institution**: Sichuan Agricultural University, Department of Environmental Engineering  
 **Contact**: hafizasadullahsajid.iub@gmail.com
+
