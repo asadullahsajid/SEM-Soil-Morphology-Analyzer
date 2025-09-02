@@ -1,0 +1,13 @@
+{
+    "scale_pixels_per_um": 100,
+    "min_particle_area_um2": 0.01,
+    "max_particle_area_um2": 100,
+    "gaussian_blur_kernel": [3, 3],
+    "morphology_kernel_size": 3,
+    "adaptive_threshold_block_size": 11,
+    "adaptive_threshold_c": 2,
+    "canny_threshold1": 50,
+    "canny_threshold2": 150,
+    "glcm_distances": [1, 2, 3],
+    "glcm_angles": [0, 45, 90, 135]
+}

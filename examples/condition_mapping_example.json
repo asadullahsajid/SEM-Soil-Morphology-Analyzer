@@ -1,0 +1,11 @@
+{
+    "before_washing": "Control",
+    "after_nacetyl": "N-Acetyl L-Glutamic Acid",
+    "after_oxalic": "Oxalic Acid",
+    "soil_1_before": "Soil 1 - Before Treatment",
+    "soil_1_treatment_1": "Soil 1 - Treatment A",
+    "soil_1_treatment_2": "Soil 1 - Treatment B",
+    "soil_2_before": "Soil 2 - Before Treatment",
+    "soil_2_treatment_1": "Soil 2 - Treatment A",
+    "soil_2_treatment_2": "Soil 2 - Treatment B"
+}
